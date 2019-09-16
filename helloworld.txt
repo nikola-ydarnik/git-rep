@@ -1,5 +1,5 @@
 hello world;
-hello world
-hello
-hi my friend
-glad to see you
+hello world;
+hello;
+hi my friend;
+glad to see you;
